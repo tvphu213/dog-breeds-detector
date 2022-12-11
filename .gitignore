@@ -3,3 +3,4 @@ data/lfw/
 dogbreedenv/
 bottleneck_features/DogResnet50Data.npz
 bottleneck_features/DogVGG16Data.npz
+__pycache__/
