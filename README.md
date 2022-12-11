@@ -30,12 +30,15 @@ python manage.py
 '''
 
 - access to upload files at 127.0.0.1:5000 (can upload multiple files at once)
+
 ![Web app's index page][image4]
+
 - tap the dog breed prediction button to process. The results are similar to the following:
 The left is the original image, the right is the prediction result.
 - If it is identified as a person, it will analyze which dog breed this person has similarity to.
 - If recognized as a dog, return the breed and image of the training set
 - If detected neither human nor dog, return the original image on the right.
+
 ![Predict result plot][image5]
 
 ### Credit: 
